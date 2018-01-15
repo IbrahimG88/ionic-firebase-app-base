@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-  apiKey: "AIzaSyAdqKrDxFQcSvuY1l2uURISG4YUQMaFhTI",
+  apiKey: "copy the api",
   authDomain: "archivist-firebase.firebaseapp.com",
   databaseURL: "https://archivist-firebase.firebaseio.com",
   projectId: "archivist-firebase",
